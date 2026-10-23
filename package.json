@@ -352,7 +352,7 @@
   },
   "overrides": {
     "esbuild": "^0.25",
-    "vite": "^7.3.2",
+    "vite": "^7.3.7",
     "path-to-regexp": "^8.4.0",
     "apache-arrow": "file:src/search/vendor/apache-arrow-stub"
   },
